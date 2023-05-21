@@ -3,6 +3,10 @@ Useful papers, notebooks, and guides for computer vision work.
 
 ## Papers
 
+- [You Only Look Once: Unified, Real-Time Object Detection](https://pjreddie.com/media/files/papers/yolo_1.pdf): The original YOLO paper. A useful read to understand the core underpinnings of one of the most popular models for real world computer vision applications.
+- [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf): What a classic. A very fun and enjoyable read from the creator of YOLO that raises some interesting questions about the broader CV space.
+
+
 ## Demos
 
 ## Notebooks
