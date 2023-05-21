@@ -1,6 +1,10 @@
 # cv-library
 Useful papers, notebooks, and guides for computer vision work.
 
+This repo is very WIP and will likely undergo extensive changes as I add in content and reformat it to make it more useful.
+
+Very open to contributions :)
+
 ## Papers
 
 - [You Only Look Once: Unified, Real-Time Object Detection](https://pjreddie.com/media/files/papers/yolo_1.pdf): The original YOLO paper. A useful read to understand the core underpinnings of one of the most popular models for real world computer vision applications.
