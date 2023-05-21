@@ -1,9 +1,9 @@
 # cv-library
 Useful papers, notebooks, and guides for computer vision work.
 
-This repo is very WIP and will likely undergo extensive changes as I add in content and reformat it to make it more useful.
+🚧 ⚠️ This repo is very WIP and will likely undergo extensive changes as I add in content and reformat it to make it more useful. ⚠️ 🚧
 
-Very open to contributions :)
+Very open to contributions 😉
 
 ## Papers
 
